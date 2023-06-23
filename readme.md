@@ -15,7 +15,7 @@ Then I made the website easier accessible by being able to click on a tab you wo
 
 MIT License
 
-Copyright (c) [2023] [Julissa Ortiz]
+Copyright (c) [2023] [Julissa Ortiz-Mendieta]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
